@@ -9,4 +9,7 @@
  └─╜│ ║│ ║└─╜ └─────────╜└────╨────╜└─────────╜└─────────╜└────╨────╜└─────╜└───╨─────╜
     └─╜└─╜                                                    The Devel made mee do IT!
 ```
- * I'm looking for testers and contributors on [macosetup](https://github.com/sh0shin/macosetup)
+Yet another Geek
+
+I'm looking for contributors:
+ * [macosetup](https://github.com/sh0shin/macosetup) - macOS setup & configuration automation
