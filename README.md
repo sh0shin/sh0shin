@@ -1,16 +1,22 @@
-```
-            ┌────┐                           ┌────┐     ┌─────┐                       
-            │ ░  │                           │ ░  │     │ ░   │          ┌──────────┐ 
+<pre>
+            ┌────┐                           ┌────┐     ┌─────┐
+            │ ░  │                           │ ░  │     │ ░   │          ┌──────────┐
             │    │ ─┼─────────────────────┼─ │    │ ─┼─ └─────┘         ┌┘ ░        └┐
  ┌──────────┤    └────┬──────────┐┌──────────┤    └────┬──────┬─────────│ ┌───┐┌───┐ │
  │ ░                  │ ░        ││ ░                    ░      ░       │ ╘═══╛╘═══╛ │
  │     └───┬┐    ┐    ┌┐   ┌     ││     └───┬┐    ┐    ┌┐     ┌┐    ┐   ╘╕          ╒╛
- ├───┐     ││    │    ││     ┘   └┴───┐     ││    │    ││     ││    │    │ ╒╕ ╒╕ ╒╕ │ 
- │         ││    │    ││                    ││    │    ││     ││    │    │ ││ ││ ││ │ 
- └─────────┘└────┴────┘└────────────────────┘└────┴────┘└─────┘└────┴────╘═╛│ ││ │╘═╛ 
- ─┼── The Devel made mee do IT! ──┼─────────────────────────────────────┼─  ╘═╛╘═╛    
-```
-Yet another Geek
-
-I'm looking for contributors:
- * [macosetup](https://github.com/sh0shin/macosetup) - macOS setup & configuration automation
+ ├───┐     ││    │    ││     ┘   └┴───┐     ││    │    ││     ││    │    │ ╒╕ ╒╕ ╒╕ │
+ │         ││    │    ││                    ││    │    ││     ││    │    │ ││ ││ ││ │
+ └─────────┘└────┴────┘└────────────────────┘└────┴────┘└─────┘└────┴────╘═╛│ ││ │╘═╛
+ ─┼── The Devel made mee do IT! ──┼─────────────────────────────────────┼─  ╘═╛╘═╛
+                                                                     Yet another Geek
+</pre>
+<big><pre>
+┼
+├── [ansible](https://github.com/sh0shin?tab=repositories&q=ansible)   [ Ansible stuff ]
+├── [dothier](https://github.com/sh0shin/dothier)   [ Dotfiles management ]
+└── [macosetup](https://github.com/sh0shin/macosetup) [ Command line macOS setup ]
+</pre></big>
+<pre><big>
+─┼──────────────────────────────────────────────────────────────────────┼─
+</big></pre>
