@@ -9,8 +9,8 @@
 │         ││    │    ││                    ││    │    ││     ││    │    │ ││ ││ ││ │
 └─────────┘└────┴────┘└────────────────────┘└────┴────┘└─────┘└────┴────╘═╛│ ││ │╘═╛
 ─┼── The Devel made mee do IT! ──┼─────────────────────────────────────────╘═╛╘═╛───┼─
-&nbsp;│                               ├── [**ansible**](https://github.com/sh0shin?tab=repositories&q=ansible)   │ **Ansible roles & stuff** (_[Galaxy](https://galaxy.ansible.com/sh0shin)_)     │
-&nbsp;│                               ├── [**dothier**](https://github.com/sh0shin/dothier)   │ **Dotfiles management**                │
-&nbsp;│                               └── [**macosetup**](https://github.com/sh0shin/macosetup) │ **Command line macOS setup**           │
-─┼──────────────────────────────────────────────────────────────────────────────────┼─
+&nbsp;├── [**ansible**](https://github.com/sh0shin?tab=repositories&q=ansible)   : **Ansible roles & stuff** (_[Galaxy](https://galaxy.ansible.com/sh0shin)_)                                     │
+&nbsp;├── [**dothier**](https://github.com/sh0shin/dothier)   : **Dotfiles management**                                                │
+&nbsp;└── [**macosetup**](https://github.com/sh0shin/macosetup) : **Command line macOS setup**                                           │
+────────────────────────────────────────────────────────────────────────────────────┼─
 </big></pre>
