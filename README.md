@@ -1,3 +1,4 @@
+[//]: # ( vim: set ft=markdown : )
 <big><pre>
 &nbsp;          ┌────┐                           ┌────┐     ┌─────┐
 &nbsp;          │ ░  │     Yet another Geek!     │ ░  │     │ ░   │          ┌──────────┐
