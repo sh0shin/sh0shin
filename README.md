@@ -12,6 +12,6 @@
 ─┼── The Devel made mee do IT! ────────────────────────────────────────────╘═╛╘═╛───┼─
 &nbsp;├── [**ansible**](https://github.com/sh0shin?tab=repositories&q=ansible)   : **Ansible roles & stuff**                                              │
 &nbsp;├── [**dothier**](https://github.com/sh0shin/dothier)   : **Dotfiles management**                                                │
-&nbsp;└── [**macosetup**](https://github.com/sh0shin/macosetup) : **Command line macOS setup**                                           │
+&nbsp;└── [**macosetup**](https://github.com/sh0shin/macosetup) : **Command line macOS setup & configuration**                           │
 ────────────────────────────────────────────────────────────────────────────────────┘
 </big></pre>
