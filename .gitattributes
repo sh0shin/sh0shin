@@ -1,0 +1,3 @@
+.editorconfig       export-ignore
+.git*               export-ignore
+.markdownlint.yml   export-ignore
