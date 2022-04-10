@@ -1,0 +1,16 @@
+---
+# vim: set ft=yaml :
+
+default: true
+
+MD013:
+  line_length: 160
+
+MD028: false
+
+MD033:
+  allowed_elements:
+    - big
+    - pre
+
+MD041: false
