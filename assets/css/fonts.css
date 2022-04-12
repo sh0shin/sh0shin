@@ -1,0 +1,37 @@
+/*
+ */
+
+@font-face {
+  font-family: 'Hack';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../webfonts/hack-regular-mono.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Hack';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../webfonts/hack-italic-mono.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Hack';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../webfonts/hack-bold-mono.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Hack';
+  font-style: italic;
+  font-weight: 700;
+  src: url('../webfonts/hack-bold-italic-mono.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'sfomi-1990';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../webfonts/sfomi-1990.woff2') format('woff2');
+}
