@@ -1,11 +1,6 @@
 # ASCII art
 
 ```ascii
-(O'o)
-[|||]
-```
-
-```ascii
   (
   ))
 c[~~]
